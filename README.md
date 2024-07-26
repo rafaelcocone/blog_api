@@ -14,6 +14,14 @@
 - Especificación del API
 - Repositorio de código
 
+### Respuesta 
+
+1. Se genero uan API con Django Rest Framework con autentificacion por token
+2. Se Realizaron los modeslos, vista y rutas para Post(publicaciones) y commnets (Comentarios)
+3. se Incluyo django_filters para realizar filtrado de comentarios por publicacion
+
+
+
 ## Instrucciones
 
 Crea entorno virtual
